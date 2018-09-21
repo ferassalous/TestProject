@@ -1,0 +1,76 @@
+{
+    "Lab Section": 13
+    "Last Modified": 2018-09-14,
+    "OU ID": 113420589,
+    "OU EMAIL": feras.m.salous-1@ou.edu,
+    "Tasks": [
+        {
+            "Description": "Satsify Checker testLightestPlayer",
+            "Estimated Time (Minutes)": 10,
+            "Actual Time (Minutes)": 10
+        },
+        {
+            "Description": Satisfy Checker testAnyPlayersFromCityName ",
+            "Estimated Time (Minutes)": 10,
+            "Actual Time (Minutes)": 10
+        },
+        {
+            "Description": "Satisfy Checker testWritePlayers",
+            "Estimated Time (Minutes)": 30
+            "Actual Time (Minutes)": 25
+            
+        }
+         {
+            "Description": "Satsify Checker testWritePlayersWithState  ",
+            "Estimated Time (Minutes)": 15,
+            "Actual Time (Minutes)": 10
+        },
+        {
+            "Description": "Satsify Checker testWriteStatistics ",
+            "Estimated Time (Minutes)": 10
+            "Actual Time (Minutes)": 5
+        },
+        {
+            "Description": "Satsify Checker addAnimalTest() ",
+            "Estimated Time (Minutes)": 15,
+            "Actual Time (Minutes)": 10
+        },
+        {
+            "Description": "Satsify Checker getTotalWeightTest ",
+            "Estimated Time (Minutes)": 10,
+            "Actual Time (Minutes)": 5
+        },
+        {
+            "Description": "Satsify Checker getAverageAgeTest",
+            "Estimated Time (Minutes)": 10,
+            "Actual Time (Minutes)": 10
+        },
+        {
+            "Description": "Satsify Checker totalAgeWithNameTest ",
+            "Estimated Time (Minutes)": 12,
+            "Actual Time (Minutes)": 10
+        },
+        {
+            "Description": "Satsify Checker numberAnimalsOfSpeciesTest",
+            "Estimated Time (Minutes)": 15,
+            "Actual Time (Minutes)": 10
+        },
+        {
+            "Description": "Satsify Checker zooToStringTest",
+            "Estimated Time (Minutes)": 5,
+            "Actual Time (Minutes)": 10
+        },
+        {
+            "Description": "Satsify Checker  testMyPlayer",
+            "Estimated Time (Minutes)": 20,
+            "Actual Time (Minutes)": 25
+        },
+        {
+            "Description": "Satsify Checker testPlayerToString ",
+            "Estimated Time (Minutes)": 20,
+            "Actual Time (Minutes)": 10
+        },
+        
+        
+    ]
+}
